@@ -26,6 +26,9 @@
             android:name=".DetailsActivity"
             android:exported="true">
         </activity>
+        <activity
+        android:name=".QrcodeActivity"
+        android:exported="true" />
     </application>
 
 </manifest>
